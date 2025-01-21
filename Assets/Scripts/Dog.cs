@@ -1,7 +1,10 @@
 ﻿using UnityEngine;
 
+
+// INHERITANCE
 public class Dog : Animal
 {
+    // POLYMORPHISM
     public override Vector3 FindOwner()
     {
         // find gameobject of Punk type

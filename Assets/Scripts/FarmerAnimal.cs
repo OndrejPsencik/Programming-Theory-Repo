@@ -1,7 +1,9 @@
 ﻿using UnityEngine;
 
+// INHERITANCE
 public abstract class FarmerAnimal : Animal
 {
+    // POLYMORPHISM
     public override Vector3 FindOwner()
     {
         // find gameobject of Punk type

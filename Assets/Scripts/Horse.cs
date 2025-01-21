@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 
+// INHERITANCE
 public class Horse : FarmerAnimal
 {
     void Start()
